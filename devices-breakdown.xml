@@ -92,6 +92,7 @@
         <device FullName="Galaxy S IV mini (DUOS)" CodeName="serranodsdd"/>
         <device FullName="Galaxy S IV mini (GSM)" CodeName="serrano3gxx"/>
         <device FullName="Galaxy S IV mini (LTE)" CodeName="serranoltexx"/>
+        <device FullName="Galaxy S V (LTE)" CodeName="kltevzw"/>
         <device FullName="Nexus 10" CodeName="manta"/>
     </vendor>
     <vendor Name="Sony">
